@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 💫 About Me:
+## 💫 About Me:
 Currently pursuing M.Tech. CSE in IITK<br>Major in cybersecurity<br>A Full stack developer <br>Hobbies are crocheting, drawing
 
 
